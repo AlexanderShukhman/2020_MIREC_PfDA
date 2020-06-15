@@ -1,0 +1,8 @@
+* [Все материалы по анализу данных в одной pdf](https://nbviewer.jupyter.org/github/rogovich/2020_MIREC_PfDA/blob/master/%40CheatSheet/2020_MIREC_Data_Analysis_ML.pdf)  
+* [Numpy](https://nbviewer.jupyter.org/github/rogovich/2020_MIREC_PfDA/blob/master/%40CheatSheet/2020_MIREC_S3_Numpy.ipynb)
+* [Введение в Pandas](https://github.com/rogovich/2020_MIREC_PfDA/blob/master/%40CheatSheet/2020_MIREC_S3_Pandas_Intro.ipynb)
+* [Pandas: дополнительный материал по агрегированию и сортировкам](https://nbviewer.jupyter.org/github/rogovich/2020_MIREC_PfDA/blob/master/%40CheatSheet/2020_MIREC_S4_Pandas_GroupBy.ipynb)
+* [Визуализация в matplotlib](https://nbviewer.jupyter.org/github/rogovich/2020_MIREC_PfDA/blob/master/%40CheatSheet/2020_MIREC_S5_S6_Viz_Matplotlib.ipynb)
+* [Разведывательный анализ данных (здесь про боксплоты)](https://nbviewer.jupyter.org/github/rogovich/2020_MIREC_PfDA/blob/master/%40CheatSheet/2020_MIREC_S7_1_EDA.ipynb)
+* [Введение в ML: бостонские дома](https://nbviewer.jupyter.org/github/rogovich/2020_MIREC_PfDA/blob/master/%40CheatSheet/2020_MIREC_S7_2_ML_Intro.ipynb)
+* [Титаник: готовим данные и выбираем лучшую модель](https://nbviewer.jupyter.org/github/rogovich/2020_MIREC_PfDA/blob/master/%40CheatSheet/2020_MIREC_S8_Titanic_Kaggle.ipynb)
